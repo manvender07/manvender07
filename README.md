@@ -45,11 +45,11 @@
 
  <br><br>   
     
- <a href="https://github.com/MANVENDER0712">
+ <a href="https://github.com/MANVENDER07">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MANVENDER07&show_icons=true&theme=maroongold " />
  <img   width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANVENDER07&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
   <br>
   <br>
  <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANVENDER07&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
-<img alt="Manvender's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MANVENDER0712&theme=chartreuse-dark"></a>
+<img alt="Manvender's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MANVENDER07&theme=chartreuse-dark"></a>
