@@ -3,12 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a gym website
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on Youtube & LinkedIn
-- 🤔 I’m looking for help with NodeJS & Data Structures
-- 💬 Ask me about C++ and Web Development Stuff
-- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: I listen very attentively to Football Interviews and Analytics
 
 
